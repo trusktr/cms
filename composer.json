@@ -1,0 +1,7 @@
+{
+  "require": {
+    "twig/twig": "~1.0",
+    "oyejorge/less.php": "v1.7.0.4",
+    "components/jquery": "2.1.4"
+  }
+}
